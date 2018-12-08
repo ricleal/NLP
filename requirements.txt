@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+nltk
+sklearn
+jupyter
+tensorflow
+keras
