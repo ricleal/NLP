@@ -11,4 +11,7 @@ Natural Language Processing and Machine Learning in Python
 - Scikit learn ...
 - Keras simple neural network
 
+## TODO:
 
+- Unsupervised learning: PCA and clustering. E.g.: https://www.kaggle.com/kashnitsky/topic-7-unsupervised-learning-pca-and-clustering
+- Dataset: https://www.kaggle.com/kashnitsky/mlcourse#beauty.csv
